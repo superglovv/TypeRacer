@@ -294,10 +294,16 @@ void loop() {
 
 ## Poze
 
+![IMG_0431](https://github.com/user-attachments/assets/ef3fb9ca-e4d6-4c33-9024-86011ad27aac)
+![IMG_0432](https://github.com/user-attachments/assets/ff94093c-bfe3-47f9-99f2-e50ac18403d6)
+![IMG_0433](https://github.com/user-attachments/assets/304177c5-b454-4f4c-a688-55edc2e4a3b8)
+![IMG_0434](https://github.com/user-attachments/assets/3b43bb23-7408-4bff-befa-f8aaa6bfdf15)
+
+
 ## Video
 
 Videoclipul poate fi văzut prin accesarea link-ului:
-[Video pe YouTube]()
+[Video pe YouTube](https://www.youtube.com/watch?v=Bijfz-eLBYU&ab_channel=AlexV)
 
 ## Schema Circuitului
 
